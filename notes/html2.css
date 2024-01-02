@@ -1,0 +1,47 @@
+figcaption 	display: block;
+figure 	display: block; margin: 1em 40px;
+dd 	    display: block; margin-left: 40px;
+div 	display: block;
+dl      display: block; margin: 1em 0;
+dt      display: block;
+
+blockquote 	display: block; margin: 1em 40px;
+h1      display: block; font-size: 2em; margin: 0.67em 0; font-weight: bold;
+h2      display: block; font-size: 1.5em; margin: 0.83em 0; font-weight: bold;
+h3 	    display: block; font-size: 1.17em; margin: 1em 0; font-weight: bold;
+h4 	    display: block; margin: 1.33em 0; font-weight: bold;
+h5 	    display: block; font-size: 0.83em; margin: 1.67em 0; font-weight: bold;
+h6      display: block; font-size: 0.67em; margin: 2.33em 0; font-weight: bold;
+hr      display: block; margin: 0.5em auto; border-style: inset; border-width: 1px;
+li 	    display: list-item;
+ol 	    display: block; list-style-type: decimal; margin: 1em 0; padding-left: 40px;
+p 	    display: block; margin: 1em 0;
+pre     display: block; font-family: monospace; white-space: pre; margin: 1em 0;
+ul 	    display: block; list-style-type: disc; margin: 1em 0; padding-left: 40px;
+
+img 	display: inline-block;
+video
+
+
+a 	    color: (internal value); text-decoration: underline; cursor: auto;
+
+br
+
+b 	    font-weight: bold;
+i 	    font-style: italic;
+s       text-decoration: line-through;
+u       text-decoration: underline;
+
+code 	font-family: monospace;
+em      font-style: italic;
+strong 	font-weight: bold;
+
+small 	font-size: smaller;
+sub 	vertical-align: sub; font-size: smaller;
+sup 	vertical-align: super; font-size: smaller;
+span 	
+
+del 	text-decoration: line-through;
+ins 	text-decoration: underline;
+mark 	background-color: yellow; color: black;
+q 	    (q::before - content: open-quote; q::after - content: close-quote;)

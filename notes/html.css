@@ -1,0 +1,116 @@
+address     { display: block; font-style: italic; }
+article     { display: block; }
+aside       { display: block; }
+blockquote  { display: block; margin: 1em 40px; }
+body        { display: block; margin: 8px; }
+dd          { display: block; margin-left: 40px; }
+details     { display: block; }
+div         { display: block; }
+dl          { display: block; margin-top: 1em 0; }
+dt          { display: block; }
+fieldset    { display: block; margin: 0 2px; padding: 0.35em 0.75em 0.625em; border: 2px groove (internal value); }
+figcaption  { display: block; }
+figure      { display: block; margin: 1em 40px; }
+footer      { display: block; }
+form        { display: block; margin-top: 0em; }
+h1          { display: block; font-size: 2em; margin: 0.67em 0; font-weight: bold; }
+h2          { display: block; font-size: 1.5em; margin: 0.83em 0; font-weight: bold; }
+h3          { display: block; font-size: 1.17em; margin: 1em 0; font-weight: bold; }
+h4          { display: block; margin: 1.33em 0; font-weight: bold; }
+h5          { display: block; font-size: .83em; margin: 1.67em 0; font-weight: bold; }
+h6          { display: block; font-size: .67em; margin: 2.33em 0; font-weight: bold; }
+header      { display: block; }
+hr          { display: block; margin: 0.5em auto; border-style: inset; border-width: 1px; }
+html        { display: block; } 
+legend      { display: block; padding-left: 0 2px; border: none; }
+menu        { display: block; list-style-type: disc; margin: 1em 0; padding-left: 40px; }
+nav         { display: block; }
+ol          { display: block; list-style-type: decimal; margin: 1em 0; padding-left: 40px; }
+p           { display: block; margin: 1em 0; }
+pre         { display: block; font-family: monospace; white-space: pre; margin: 1em 0; }
+section     { display: block; }
+summary     { display: block; } 
+ul          { display: block; list-style-type: disc; margin: 1em 0; padding-left: 40px; }
+
+img         { display: inline-block; }
+
+area        { display: none; }
+datalist    { display: none; }
+head        { display: none; }
+link        { display: none; }
+param       { display: none; }
+script      { display: none; }
+style       { display: none; }
+title       { display: none; }
+
+caption     { display: table-caption; text-align: center; }
+col         { display: table-column; }
+colgroup    { display: table-column-group; }
+table       { display: table; border-collapse: separate; border-spacing: 2px; border-color: gray; }
+tbody       { display: table-row-group; vertical-align: middle; border-color: inherit; }
+td          { display: table-cell; vertical-align: inherit; }
+tfoot       { display: table-footer-group; vertical-align: middle; border-color: inherit; }
+th          { display: table-cell; vertical-align: inherit; font-weight: bold; text-align: center; }
+thead       { display: table-header-group; vertical-align: middle; border-color: inherit; }
+tr          { display: table-row; vertical-align: inherit; border-color: inherit; }
+
+li          { display: list-item; }
+
+a           { color: (internal value); text-decoration: underline; cursor: auto; }
+abbr        {} 
+audio       {} 
+b           { font-weight: bold; }
+base        {}
+bdi         {} 
+bdo         { unicode-bidi: bidi-override; }
+br          {}
+button      {}
+canvas      {}
+cite        { font-style: italic; }
+code        { font-family: monospace; }
+del         { text-decoration: line-through; }
+dfn         { font-style: italic; }
+dialog      {}
+em          { font-style: italic; }
+embed       {?}
+i           { font-style: italic; }
+iframe      {}
+input       {}
+ins         { text-decoration: underline; }
+kbd         { font-family: monospace; }
+label       { cursor: default; }
+main        {}
+map         { display: inline; } 
+mark        { background-color: yellow; color: black; }
+menuitem    {}
+meta        {}
+meter       {}
+noscript    {}
+object      {}
+optgroup    {}
+option      {}
+output      { display: inline; }
+picture     {} 
+progress    {}
+q           { display: inline; } q::before { content: open-quote; } q::after { content: close-quote; }
+rp          {} 
+rt          { line-height: normal; }
+ruby        {}
+s           { text-decoration: line-through; }
+samp        { font-family: monospace; }
+select      {}
+small       { font-size: smaller; }
+source      {}
+span        {}
+strike      { text-decoration: line-through; }
+strong      { font-weight: bold; }
+sub         { vertical-align: sub; font-size: smaller; }
+sup         { vertical-align: super; font-size: smaller; }
+template    {}
+textarea    {} 
+time        {}
+track       {}
+u           { text-decoration: underline; }
+var         { font-style: italic; }
+video       {}
+wbr         {}
